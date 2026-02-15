@@ -743,7 +743,7 @@ export default function FatLossApp() {
       {/* Footer */}
       <footer className="max-w-4xl mx-auto px-4 py-6 mb-16 md:mb-0 border-t border-slate-800 text-center">
         <p className="text-slate-600 text-xs">
-          Generated from "Custom Fat Loss Plan.pdf" • Medical Disclaimer: Consult a physician before starting.
+          Made by elyied.
         </p>
       </footer>
 
