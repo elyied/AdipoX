@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/fat-loss-tracker/",  // <--- ADD THIS LINE (Must match your repo name)
+  base: "/AdipoX/",  // <--- ADD THIS LINE (Must match your repo name)
 })

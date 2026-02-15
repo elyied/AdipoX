@@ -2,7 +2,7 @@
   "name": "fat-loss-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/elyied/fat-loss-tracker",
+  "homepage": "https://github.com/elyied/AdipoX",
   "type": "module",
   "scripts": {
     "dev": "vite",
